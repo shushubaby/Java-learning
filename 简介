@@ -6,3 +6,5 @@ JRE：java运行环境
 配置环境变量：JAVA_HOME:JDK的安装目录
              PATH：JDK中可执行文件即bin目录位置
              CLASSPAT：JDK中配置类库文件的位置即lib位置
+开发工具：推荐IDEA，或者Eclipse
+         IDEA可在Jetbrain官网下载
