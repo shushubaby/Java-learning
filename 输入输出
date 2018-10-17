@@ -1,0 +1,5 @@
+输入:使用Scanner工具类获得输入；Scanner类在java.util包中
+     1.导入包：java.util.Scanner;（import java.util.Scanner;）
+     2.创建Scanner对象；(Scanner input=new Scanner(System.in);)
+     3.保存并接受用户的值。(xxx=input.nextInt()等等等)
+输出：System.out.println(...);
