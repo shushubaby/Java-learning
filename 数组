@@ -1,0 +1,12 @@
+1.数组可以按顺序存放多个类型相同的数据，比如可以定义 int 型的数组 scores 存储 4 名学生的成绩：int[] scores={45,67,89,94};
+  使用数组分四步： （1）声明数组    数据类型[ ] 数组名；/数据类型 数组名[ ]；
+                 （2）分配空间   数组名 = new  数据类型 [ 数组长度 ];
+                 （3）赋值
+                 （4）处理数组中数据 int[] scores=new int[]{x,x,x,x};
+2.获取数组长度：变量名.length
+3.使用 Arrays 类操作 Java 中的数组:import java.util.Arrays;
+                                  Arrays.sort(数组名);//实现排序
+                                  Arrays.toString(数组名);//将数组转换为字符串
+4.使用 foreach 操作数组:for(String hobby:hobbies){
+                               执行内容
+                           }
